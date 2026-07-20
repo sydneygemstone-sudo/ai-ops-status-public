@@ -2,11 +2,11 @@
   "schema_version": 1,
   "public_goal_id": "PUB-20260720-01",
   "phase": "bridge_bootstrap",
-  "status": "executing",
-  "progress_summary": "The private interaction channel is being initialized and verified.",
+  "status": "completed",
+  "progress_summary": "The private-to-public GitHub bridge round trip is verified and ready for voice lookup.",
   "intervention_required": false,
   "decision_needed": null,
   "severity": "info",
-  "last_verified_at": "2026-07-20T13:37:49+10:00",
-  "next_check_at": "2026-07-20T13:52:49+10:00"
+  "last_verified_at": "2026-07-20T13:40:14+10:00",
+  "next_check_at": null
 }
